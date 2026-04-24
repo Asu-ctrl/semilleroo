@@ -12,9 +12,6 @@ Incluso puedes ~~tachar texto~~ si cambiaste de opinión.
 * Otro elemento
     * Una sub-lista
     
-1. Primera tarea
-2. Segunda tarea
-3. Tercera tarea
 
 ### Enlaces e Imágenes
 [Visita Google](https://www.google.com)
